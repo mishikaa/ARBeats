@@ -1,0 +1,30 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: Arial, sans-serif;
+  overflow: hidden; /* Prevent scrollbars */
+}
+
+.controls {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  border-radius: 5px;
+  pointer-events: auto;
+  z-index: 10;
+}
+
+.controls div {
+  margin-bottom: 10px;
+}
+
+/* Ensure AR scene is fullscreen and covers the entire viewport */
+a-scene {
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
