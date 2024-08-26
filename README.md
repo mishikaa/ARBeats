@@ -18,7 +18,7 @@
 
 # Demo
 
-Check out the AR Beats in action! ![AR Beats Demo](videos/demo.mp4)
+Check out the AR Beats in action! ![AR Beats Demo](demo.mp4)
 
 ## How to Use
 
