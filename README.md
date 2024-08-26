@@ -18,7 +18,7 @@
 
 # Demo
 
-Check out the AR Beats in action! ![AR Beats Demo](demo.mp4)
+Check out the AR Beats in action! ![AR Beats Demo](https://github.com/mishikaa/ARBeats/blob/main/demo.mp4)
 
 ## How to Use
 
